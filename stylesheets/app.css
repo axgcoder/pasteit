@@ -1,0 +1,30 @@
+i.code {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+#delete {
+    display: inline;
+}
+.homeImg {
+    max-height: 125px !important;
+}
+.BuildButtons{
+    width:30%;
+    padding-top:2em;
+    float:left;
+}
+.banner_img {
+    
+    background-image: url(/images/banner.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 225px;
+    display: block;
+    margin-top: 2.8em;
+    margin-bottom: -5em;
+}
